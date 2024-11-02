@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my Personal Website and mastering Javascript
+- 🌱 I’m currently learning Javascript, HTML, CSS
+
 <!--
 **Shazeeda/Shazeeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
