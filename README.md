@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my personal website and mastering Javascript
 - 🌱 I’m currently learning front-end development, Javascript, HTML and CSS
-- 🧠 At the end of my software engineering bootcamp I will be a fullstack developer experienced in front and back end devlopment
+- 🧠 At the end of my software engineering bootcamp I will be a fullstack developer experienced in front and back end development
 - 🚀 My future goals are to be proficient in multiple coding languages 
 - 📫 How to reach me: Shazeedamohamed@gmail.com
   
