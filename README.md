@@ -1,4 +1,4 @@
-## Hi there 👋
+##   Building tomorrow's tech, one commit at a time
 
 - ❓ Why the transition in career field? I wanted to transition to software engineering because it offered a unique combination of creativity, problem-solving and continuous learning that I found deeply inspiring. My previous field had its rewards, but I found myself wanting a career where I could create, adapt, and solve problems on a deeper level. Whether it's through optimizing a complex algorithm or designing user-friendly interfaces, I'm motivated by the impact software can have on people's lives.
 
