@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently enrolled at Fullstack Academy 
-- 🌱 I’m currently learning front-end development, JavaScript, HTML and CSS
+- 🌱 I’m currently proficient in JavsScript, SQL, Node, React, REST APIs, PostgreSQL and AWS Cloud
 - 🧠 At the end of Fullstack Academy I will be a fullstack developer experienced in front and back end development
 - 🚀 My future goals are to be proficient in multiple coding languages 
 - 📫 How to reach me: Shazeedamohamed@gmail.com
