@@ -1,4 +1,5 @@
 🚀 Building tomorrow's tech — one thoughtful commit at a time
+
 Hi, I’m Shazeeda Mohamed — a Criminal Justice major turned Software Developer who fell in love with code for the same reasons I loved the justice system: logic, structure, and solving real-world problems.
 
 After graduating from Fullstack Academy, I now build robust, user-centered web applications using modern technologies across the stack. I thrive at the intersection of creativity and problem-solving — whether I’m optimizing backend logic or creating seamless user experiences on the frontend.
