@@ -1,25 +1,23 @@
-##   Building tomorrow's tech, one commit at a time
+🚀 Building tomorrow's tech — one thoughtful commit at a time
+Hi, I’m Shazeeda Mohamed — a Criminal Justice major turned Software Developer who fell in love with code for the same reasons I loved the justice system: logic, structure, and solving real-world problems.
 
-- ❓ Why the transition in career field? I wanted to transition to software engineering because it offered a unique combination of creativity, problem-solving and continuous learning that I found deeply inspiring. My previous field had its rewards, but I found myself wanting a career where I could create, adapt, and solve problems on a deeper level. Whether it's through optimizing a complex algorithm or designing user-friendly interfaces, I'm motivated by the impact software can have on people's lives.
+After graduating from Fullstack Academy, I now build robust, user-centered web applications using modern technologies across the stack. I thrive at the intersection of creativity and problem-solving — whether I’m optimizing backend logic or creating seamless user experiences on the frontend.
 
 
-- 🔭 I’m currently enrolled at Fullstack Academy 
-- 🌱 I’m currently proficient in JavsScript, SQL, Node, React, REST APIs, PostgreSQL and AWS Cloud
-- 🧠 At the end of Fullstack Academy I will be a fullstack developer experienced in front and back end development
-- 🚀 My future goals are to be proficient in multiple coding languages 
-- 📫 How to reach me: Shazeedamohamed@gmail.com
-  
+💡 A little about me:
+🎓 Graduate of Fullstack Academy — trained in fullstack web development
+
+🛠️ Tech Stack: JavaScript, Node.js, React, SQL, REST APIs, PostgreSQL, AWS Cloud
+
+🧠 Passionate about backend engineering, API architecture, and scalable systems
+
+🌱 Always learning — currently diving deeper into advanced backend patterns and cloud integrations
+
+🧩 Problem-solver at heart, team player by nature
+
+📫 Reach me at: shazeedamohamed@gmail.com
 <!--
 **Shazeeda/Shazeeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Personal Website and mastering Javascript
-- 🌱 I’m currently learning Javascript, HTML, CSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
